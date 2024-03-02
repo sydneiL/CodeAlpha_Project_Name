@@ -1,1 +1,1 @@
-Task projects for C++ assignments.
+Task projects for C++, Python, Java, and Web Development assignments
